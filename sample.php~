@@ -1,0 +1,33 @@
+<html>
+<head>
+	<title>nitc information center registration form</title>
+    <style type="text/css">
+     div{
+        float: right;
+        border-width: 70px;
+        border-height:40px;
+        background-color: blue;
+        border-radius:40px;
+     }
+
+    </style>
+</head>
+<body>
+    <div>
+    	<table>
+    		<tr>
+    			<td ><center>user name</center></td>
+    			<td><center>password</center></td>
+    		</tr>
+            <form>
+    		<tr>
+    			<td><input type="text" name="user"></td>
+                <td><input type="password" name="pass"></td>
+    		</tr>
+            </form>
+
+    	</table>
+    </div>
+
+
+</body>	
